@@ -15,7 +15,8 @@ const Home = (props) => {
                     Workcation helps you find work-friendly rentals in beautiful locations so you can enhoy some nice weather even when you are not on vacation.
                 </p>
                 <div className="mt-4 sm:mt-6">
-                    <a href="#" className="inline-block bg-indigo-500 hover:bg-indigo-400 focus:outline-none focus:shadow-outline active:bg-indigo-600 md:hover:bg-green-400 text-white px-4 py-3 rounded shadow-lg uppercase tracking-wider font-semibold text-sm sm:text-base">Book your escape</a>
+                    <a href="#" className="btn btn-indigo sm:text-base shadow-lg">Book your escape</a>
+                    <a href="#" className="ml-2 btn btn-gray sm:text-base">Learn more</a>
                 </div>
             </div>
             
