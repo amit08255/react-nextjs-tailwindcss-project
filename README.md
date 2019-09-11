@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/amit08255/react-nextjs-tailwindcss-project#getting-started">
     <img src="static/logo.svg" alt="Logo" width="300px" height="80">
   </a>
 
