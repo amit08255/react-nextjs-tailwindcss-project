@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="static/logo.svg" alt="Logo" width="80" height="80">
+    <img src="static/logo.svg" alt="Logo" width="300px" height="80">
   </a>
 
   <h3 align="center">NextJS TailWindCSS Project</h3>
@@ -19,6 +19,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
+* [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Installation](#installation)
@@ -27,6 +28,13 @@
 * [License](#license)
 * [Contact](#contact)
 
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://twitter.com/amit08255)
+
+This is simple project designed in tailwindcss with NextJS and ReactJS. The project was designed to learn how to design professional website without writing large CSS files.
 
 ### Built With
 This project is designed with technologies listed below - 
