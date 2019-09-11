@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="static/images/logo.svg" alt="Logo" width="80" height="80">
+    <img src="static/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">NextJS TailWindCSS Project</h3>
@@ -106,5 +106,5 @@ Project Link: [https://github.com/amit08255/react-nextjs-tailwindcss-project](ht
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot]: static/images/screenshot.jpg
+[product-screenshot]: static/screenshot.jpg
 
